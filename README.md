@@ -7,7 +7,7 @@ This project is based on the Questgen.ai Python project originally developed by 
 <details>
   <summary>
     ## Tasks (will be updated with project progression):
-  <summary>
+  </summary>
   <p>
     - [ ] Research JavaScript Dependency Equivalents
     - [ ] Create an Itemized List of JavaScript Dependency Equivalents
