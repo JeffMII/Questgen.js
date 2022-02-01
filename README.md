@@ -6,8 +6,10 @@ This project is based on the Questgen.ai Python project originally developed by 
 
 ## Tasks (will be updated with project progression):
 <details>
-- [ ] Research JavaScript Dependency Equivalents
-- [ ] Create an Itemized List of JavaScript Dependency Equivalents
-- [ ] Study and Understand the Individual Features of Questgen.ai 
-- [ ] Create an Itemized List of Questgen.ai Features to be Implemented \(only a few of these will be used for my Research Methods course project)
+  ```md
+    - [ ] Research JavaScript Dependency Equivalents
+    - [ ] Create an Itemized List of JavaScript Dependency Equivalents
+    - [ ] Study and Understand the Individual Features of Questgen.ai 
+    - [ ] Create an Itemized List of Questgen.ai Features to be Implemented \(only a few of these will be used for my Research Methods course project)
+  ```
 </details>
