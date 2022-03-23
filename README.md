@@ -1,4 +1,4 @@
-# **Questgen.js**
+# **quest-js**
 ###### based on [Questgen.ai](https://github.com/ramsrigouthamg/Questgen.ai) by [Ramsri Goutham Golla](https://github.com/ramsrigouthamg)
 
 ## Overview
